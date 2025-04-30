@@ -3,21 +3,21 @@ A 📁 File Organizer (Python CLI Tool)
 A simple and customizable command-line tool that automatically organizes files in a directory by type (e.g., Images, Documents, Code, Archives).
 ✨ Features
 
-    Automatically creates folders like Images/, Documents/, Code/, etc.
+ Automatically creates folders like Images/, Documents/, Code/, etc.
 
-    Moves files based on their extensions
+ Moves files based on their extensions
 
-    Easy to customize file types and categories
+ Easy to customize file types and categories
 
-    Works on Linux and Windows (via WSL)
+ Works on Linux and Windows (via WSL)
 
 🚀 Usage
 
-    Clone the repo or download the script:
+Clone the repo or download the script:
 
-git clone https://github.com/SidharthaDR/file-organizer.git
+    git clone https://github.com/SidharthaDR/file-organizer.git
 
-cd file-organizer
+    cd file-organizer
 
 Run the script:
 
