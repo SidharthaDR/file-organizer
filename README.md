@@ -16,6 +16,7 @@ A simple and customizable command-line tool that automatically organizes files i
     Clone the repo or download the script:
 
 git clone https://github.com/SidharthaDR/file-organizer.git
+
 cd file-organizer
 
 Run the script:
